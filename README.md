@@ -1,2 +1,1 @@
-My first cimmit
-My first readme
+My updated readme. Updated with better experiences gained from ALX
